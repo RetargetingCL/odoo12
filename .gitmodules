@@ -17,3 +17,8 @@
 	path = RetargetingCL/hr_payroll_cancel
 	url = git@github.com:RetargetingCL/hr_payroll_cancel.git
 	branch = rt_master
+
+[submodule "RetargetingCL/bi_view_editor"]
+	path = RetargetingCL/bi_view_editor
+	url = git@github.com:RetargetingCL/bi_view_editor.git
+	branch = rt_master
