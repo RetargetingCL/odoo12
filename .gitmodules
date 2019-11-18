@@ -22,3 +22,8 @@
 	path = RetargetingCL/bi_view_editor
 	url = git@github.com:RetargetingCL/bi_view_editor.git
 	branch = rt_master
+
+[submodule "RetargetingCL/l10n_cl_hr_employee_extend"]
+	path = RetargetingCL/l10n_cl_hr_employee_extend
+	url = git@github.com:RetargetingCL/l10n_cl_hr_employee_extend.git
+	branch = rt_master
